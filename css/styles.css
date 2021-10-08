@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    size: 2rem;
+    font-family: 'Times New Roman';
+    color:gold;
+    background-color: blue;
+}
+
+h2 {
+    text-align: left;
+    size: 1.2rem;
+    font-family: 'Times New Roman';
+    color: black;
+    font-weight: bold;
+}
+
+h3 {
+    text-align: center;
+    size: 1.5rem;
+    font-family: 'Times New Roman';
+}
+
+p {
+    size: 1rem;
+    font-family: 'Times New Roman';
+    text-align: left;
+}
+
+p a {
+    color: black;
+    text-decoration: underline;
+}
+
+body {
+    background-color: lightblue;
+}
