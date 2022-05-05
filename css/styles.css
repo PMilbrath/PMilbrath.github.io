@@ -20,6 +20,12 @@ h3 {
     font-family: 'Times New Roman';
 }
 
+h4 {
+    text-align: center;
+    size: 0.9rem;
+    font-family: 'Times New Roman';
+}
+
 p {
     size: 1rem;
     font-family: 'Times New Roman';
